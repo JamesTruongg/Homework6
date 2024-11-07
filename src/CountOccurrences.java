@@ -7,7 +7,7 @@ public class CountOccurrences {
         int Number = sc.nextInt();
         int Temp[] = new int[Number];
         for(int i = 0; i < Number; i++){
-            System.out.print("Phần tử mảng thứ " + (i + 1) +":");
+            System.out.print("Phan tu thu " + (i + 1) +":");
             Temp[i] = sc.nextInt();
         }
         System.out.println("Nhap vao phan tu can dem: ");
